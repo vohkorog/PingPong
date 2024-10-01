@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/kirillgorohov/Desktop/codes/c++/SFML Game/PinPong/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/Cellar/sfml/2.6.1/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/app.dir/src/ball.cpp.o -c \"/Users/kirillgorohov/Desktop/codes/c++/SFML Game/PinPong/src/ball.cpp\"",
+  "file": "/Users/kirillgorohov/Desktop/codes/c++/SFML Game/PinPong/src/ball.cpp",
+  "output": "CMakeFiles/app.dir/src/ball.cpp.o"
+},
+{
+  "directory": "/Users/kirillgorohov/Desktop/codes/c++/SFML Game/PinPong/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/Cellar/sfml/2.6.1/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/app.dir/src/main.cpp.o -c \"/Users/kirillgorohov/Desktop/codes/c++/SFML Game/PinPong/src/main.cpp\"",
+  "file": "/Users/kirillgorohov/Desktop/codes/c++/SFML Game/PinPong/src/main.cpp",
+  "output": "CMakeFiles/app.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/kirillgorohov/Desktop/codes/c++/SFML Game/PinPong/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/Cellar/sfml/2.6.1/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/app.dir/src/player.cpp.o -c \"/Users/kirillgorohov/Desktop/codes/c++/SFML Game/PinPong/src/player.cpp\"",
+  "file": "/Users/kirillgorohov/Desktop/codes/c++/SFML Game/PinPong/src/player.cpp",
+  "output": "CMakeFiles/app.dir/src/player.cpp.o"
+},
+{
+  "directory": "/Users/kirillgorohov/Desktop/codes/c++/SFML Game/PinPong/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/Cellar/sfml/2.6.1/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/app.dir/src/points.cpp.o -c \"/Users/kirillgorohov/Desktop/codes/c++/SFML Game/PinPong/src/points.cpp\"",
+  "file": "/Users/kirillgorohov/Desktop/codes/c++/SFML Game/PinPong/src/points.cpp",
+  "output": "CMakeFiles/app.dir/src/points.cpp.o"
+},
+{
+  "directory": "/Users/kirillgorohov/Desktop/codes/c++/SFML Game/PinPong/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/Cellar/sfml/2.6.1/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/app.dir/src/window.cpp.o -c \"/Users/kirillgorohov/Desktop/codes/c++/SFML Game/PinPong/src/window.cpp\"",
+  "file": "/Users/kirillgorohov/Desktop/codes/c++/SFML Game/PinPong/src/window.cpp",
+  "output": "CMakeFiles/app.dir/src/window.cpp.o"
+}
+]
