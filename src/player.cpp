@@ -17,7 +17,7 @@ Player::~Player(){
 }
 
 void Player::initPlayer(){
-    this->shape.setSize(sf::Vector2f(35, 300));
+    this->shape.setSize(sf::Vector2f(30, 200));
     this->shape.setPosition(this->posX, this->posY);
     this->shape.setFillColor(this->color);
 }

@@ -27,8 +27,8 @@ void Ball::initVar()
     this->ball.setRadius(30);
     this->ball.setFillColor(sf::Color::Green);
     this->ballCenter = sf::Vector2f(this->ball.getPosition().x + this->ball.getRadius(), this->ball.getPosition().y + this->ball.getRadius());
-    this->xVelocity = 0.1;
-    this->yVelocity = 0.1;
+    this->xVelocity = 0.15;
+    this->yVelocity = 0.15;
 }
 
 Ball::~Ball(){
@@ -79,7 +79,7 @@ void Ball::update(Player *one, Player *two)
         this->ball.setPosition(610,300);
 
     }
-    if(this->ball.getPosition().x < 10){
+    if(this->ball.getPosition().x < 0){
         this->pBlue++;
         this->pointsBlue->setPoints(this->pBlue);
         this->ball.setPosition(610,300);
